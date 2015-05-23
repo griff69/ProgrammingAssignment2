@@ -1,6 +1,6 @@
 ## These functions compute the matrix inverse storing it in cache so that 
 ## next reference to the  matrix inverse will get it from cache rather than
-## re computing the lavel again
+## recomputing the value again
 
 
 
